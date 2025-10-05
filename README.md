@@ -7,4 +7,4 @@ This repository contains the code and resources used for the **BPM Prediction Ch
 ---
 
 Screenshot
-![Submission](Screenshots/Leaderboard.png)
+![Submission](Screenshot/Leaderboard.png)
